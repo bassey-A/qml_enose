@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LoginScreen.qml</file>
+        <file>hkr_big.png</file>
+        <file>images/hkr_big.png</file>
+        <file>hkr_small.jpeg</file>
+        <file>beer.png</file>
+        <file>ReadingsGraph.qml</file>
+        <file>Enose.qml</file>
+    </qresource>
+</RCC>
